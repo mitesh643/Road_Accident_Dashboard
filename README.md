@@ -30,4 +30,5 @@ Excel-Based Visualization: Multi-dimensional charts, dynamic trend lines, heatma
 Trend Identification & Predictive Insights: Seasonal variation detection and risk factor assessment.
 
 Conclusion:
-This data-driven investigation provides invaluable insights into the dynamics of road accidents, offering a robust foundation for transportation authorities and policymakers to craft evidence-based safety interventions. By systematically decoding accident distribution and causative elements, this study underscores the indispensable role of analytics in mitigating road-related fatalities and enhancing urban mobility.
+This data-driven analysis delivers actionable insights into the patterns and underlying causes of road accidents, providing a strong analytical foundation for transportation authorities and policymakers. By uncovering trends in accident frequency, severity, and contributing factors, the study demonstrates how data analytics can support evidence-based safety interventions. These insights can help reduce road-related fatalities, optimize traffic management strategies, and ultimately improve overall urban mobility and public safety.
+
